@@ -1,0 +1,7 @@
+{
+    "github.gitAuthentication": true,
+    "github.branchProtection": true,
+    "explorer.excludeGitIgnore": true,
+    "git.autofetch": true,
+    "git.terminalGitEditor": true
+}
